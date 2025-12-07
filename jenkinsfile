@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Test') {
             steps {
-                echo "Running build and sending test email"
+                echo "Running build and sending test emails today"
             }
         }
     }
